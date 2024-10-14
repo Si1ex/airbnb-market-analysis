@@ -6,7 +6,7 @@ This repository contains a market analysis of Airbnb listings in Stockholm. The 
 
 ![AvgRoomPrice](https://github.com/Si1ex/airbnb-market-analysis/blob/main/average_room_price.png?raw=true)
 
-![AvgAvailability](https://github.com/Si1ex/airbnb-market-analysis/blob/main/avg_availability_neighborhood.png?raw=true)
+![AvgAvailability](https://github.com/Si1ex/airbnb-market-analysis/blob/main/avg_availability.png?raw=true)
 
 ![CorrMtrx](https://github.com/Si1ex/airbnb-market-analysis/blob/main/correlation_matrix.png?raw=true)
 
