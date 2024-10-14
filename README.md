@@ -1,10 +1,13 @@
 # Airbnb Market Analysis
 
-This repository contains a market analysis of Airbnb listings in Stockholm. The analysis includes data preparation, visualization, and correlation analysis to understand the distribution of room types, average room prices, availability, and correlations between different variables.
+This repository contains a market analysis of Airbnb listings in Stockholm. The analysis includes data preparation, visualization, and correlation analysis to understand the distribution of room types, average room prices, availability, and correlations between different variables. Results below: 
 
 ![RoomTypes](https://github.com/Si1ex/airbnb-market-analysis/blob/main/distribution_of_room_types.png?raw=true)
+
 ![AvgRoomPrice](https://github.com/Si1ex/airbnb-market-analysis/blob/main/average_room_price.png?raw=true)
+
 ![AvgAvailability](https://github.com/Si1ex/airbnb-market-analysis/blob/main/avg_availability_neighborhood.png?raw=true)
+
 ![CorrMtrx](https://github.com/Si1ex/airbnb-market-analysis/blob/main/correlation_matrix.png?raw=true)
 
 ## Data
